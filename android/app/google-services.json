@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797825811436",
+    "project_id": "crashdetection-61614",
+    "storage_bucket": "crashdetection-61614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797825811436:android:093d72a2cbba1b6e9bf6c9",
+        "android_client_info": {
+          "package_name": "com.example.collision_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797825811436-69k3q1ds9ia59trn7e3ae27q04q5g7n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIgbe01iBmemoZcdljhxsLQ1_UEhxHUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797825811436-69k3q1ds9ia59trn7e3ae27q04q5g7n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
